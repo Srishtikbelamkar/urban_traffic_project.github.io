@@ -1,0 +1,565 @@
+Accident_ID,Date,Time,Location,Latitude,Longitude,Weather,Traffic_Volume,Severity
+1,2025-03-10,06:00,MG Road Junction,15.3647,75.1239,Cloudy,960,Moderate
+2,2025-04-01,09:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,1144,Minor
+3,2025-01-14,18:00,Gokul Road,15.3652,75.1106,Clear,1069,Minor
+4,2025-04-07,20:00,Airport Road,15.3705,75.096,Cloudy,775,Minor
+5,2025-04-17,14:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,393,Moderate
+6,2025-03-27,07:00,Unkal Lake Road,15.373,75.1115,Clear,770,Moderate
+7,2025-04-25,11:00,Keshwapur,15.3565,75.1325,Cloudy,449,Minor
+8,2025-02-22,19:00,Vidya Nagar,15.37,75.119,Rain,551,Major
+9,2025-02-24,01:00,MG Road Junction,15.3647,75.1239,Clear,886,Minor
+10,2025-03-27,01:00,Old Bus Stand,15.3502,75.138,Rain,722,Minor
+11,2025-04-28,16:00,Gokul Road,15.3652,75.1106,Clear,598,Moderate
+12,2025-04-19,20:00,Unkal Lake Road,15.373,75.1115,Rain,702,Moderate
+13,2025-03-03,14:00,Hubballi Railway Station,15.3515,75.1387,Clear,357,Minor
+14,2025-02-02,07:00,Vidya Nagar,15.37,75.119,Clear,516,Major
+15,2025-03-07,19:00,Hubballi Railway Station,15.3515,75.1387,Clear,888,Major
+16,2025-03-24,13:00,Airport Road,15.3705,75.096,Fog,470,Minor
+17,2025-04-26,07:00,Keshwapur,15.3565,75.1325,Rain,894,Minor
+18,2025-02-14,20:00,Unkal Lake Road,15.373,75.1115,Cloudy,769,Moderate
+19,2025-02-02,23:00,Old Bus Stand,15.3502,75.138,Clear,410,Minor
+20,2025-03-04,07:00,Unkal Lake Road,15.373,75.1115,Clear,828,Minor
+21,2025-02-18,10:00,Vidya Nagar,15.37,75.119,Clear,830,Moderate
+22,2025-04-05,22:00,Gokul Road,15.3652,75.1106,Clear,320,Minor
+23,2025-03-14,23:00,Keshwapur,15.3565,75.1325,Clear,684,Minor
+24,2025-03-31,10:00,Gokul Road,15.3652,75.1106,Clear,694,Minor
+25,2025-02-10,00:00,Gokul Road,15.3652,75.1106,Rain,823,Moderate
+26,2025-01-17,13:00,Airport Road,15.3705,75.096,Clear,276,Moderate
+27,2025-03-20,09:00,Airport Road,15.3705,75.096,Clear,589,Minor
+28,2025-03-03,20:00,Old Bus Stand,15.3502,75.138,Clear,1299,Minor
+29,2025-01-24,11:00,Old Bus Stand,15.3502,75.138,Clear,437,Moderate
+30,2025-02-12,12:00,Old Bus Stand,15.3502,75.138,Clear,439,Major
+31,2025-04-16,12:00,Gokul Road,15.3652,75.1106,Clear,443,Major
+32,2025-04-18,04:00,Old Bus Stand,15.3502,75.138,Cloudy,470,Minor
+33,2025-03-13,18:00,Hubballi Railway Station,15.3515,75.1387,Clear,1136,Moderate
+34,2025-04-20,09:00,MG Road Junction,15.3647,75.1239,Clear,966,Moderate
+35,2025-04-24,17:00,Hubballi Railway Station,15.3515,75.1387,Clear,1035,Moderate
+36,2025-03-10,11:00,Gokul Road,15.3652,75.1106,Cloudy,616,Moderate
+37,2025-02-26,19:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,916,Minor
+38,2025-02-26,10:00,Old Bus Stand,15.3502,75.138,Clear,1087,Moderate
+39,2025-03-05,17:00,MG Road Junction,15.3647,75.1239,Clear,1351,Minor
+40,2025-02-24,10:00,Hubballi Railway Station,15.3515,75.1387,Fog,1001,Minor
+41,2025-04-22,11:00,Vidya Nagar,15.37,75.119,Cloudy,231,Moderate
+42,2025-03-15,16:00,Unkal Lake Road,15.373,75.1115,Cloudy,218,Major
+43,2025-02-17,08:00,Old Bus Stand,15.3502,75.138,Fog,823,Minor
+44,2025-03-19,05:00,Gokul Road,15.3652,75.1106,Clear,373,Moderate
+45,2025-01-30,02:00,Vidya Nagar,15.37,75.119,Cloudy,278,Minor
+46,2025-04-26,17:00,Keshwapur,15.3565,75.1325,Rain,834,Major
+47,2025-04-06,14:00,Vidya Nagar,15.37,75.119,Clear,289,Moderate
+48,2025-02-01,22:00,MG Road Junction,15.3647,75.1239,Clear,537,Minor
+49,2025-04-15,15:00,Hubballi Railway Station,15.3515,75.1387,Rain,734,Minor
+50,2025-03-24,18:00,Hubballi Railway Station,15.3515,75.1387,Rain,1062,Minor
+51,2025-03-14,06:00,Gokul Road,15.3652,75.1106,Clear,478,Minor
+52,2025-03-23,15:00,Vidya Nagar,15.37,75.119,Cloudy,286,Minor
+53,2025-03-24,01:00,Old Bus Stand,15.3502,75.138,Rain,828,Moderate
+54,2025-01-11,22:00,Hubballi Railway Station,15.3515,75.1387,Clear,285,Minor
+55,2025-03-16,11:00,Unkal Lake Road,15.373,75.1115,Clear,203,Moderate
+56,2025-04-02,07:00,Keshwapur,15.3565,75.1325,Clear,882,Minor
+57,2025-04-10,17:00,Airport Road,15.3705,75.096,Cloudy,836,Moderate
+58,2025-02-12,08:00,Old Bus Stand,15.3502,75.138,Clear,969,Minor
+59,2025-01-19,20:00,Unkal Lake Road,15.373,75.1115,Clear,600,Minor
+60,2025-02-19,07:00,Airport Road,15.3705,75.096,Clear,749,Minor
+61,2025-01-25,10:00,Gokul Road,15.3652,75.1106,Cloudy,855,Minor
+62,2025-01-05,07:00,Vidya Nagar,15.37,75.119,Clear,416,Moderate
+63,2025-03-08,19:00,Airport Road,15.3705,75.096,Clear,478,Moderate
+64,2025-03-05,15:00,MG Road Junction,15.3647,75.1239,Clear,677,Moderate
+65,2025-01-27,15:00,Keshwapur,15.3565,75.1325,Rain,580,Minor
+66,2025-01-20,13:00,Keshwapur,15.3565,75.1325,Rain,495,Minor
+67,2025-04-27,13:00,MG Road Junction,15.3647,75.1239,Cloudy,596,Minor
+68,2025-04-08,03:00,Keshwapur,15.3565,75.1325,Clear,869,Moderate
+69,2025-01-28,10:00,Hubballi Railway Station,15.3515,75.1387,Rain,1232,Minor
+70,2025-04-16,04:00,Vidya Nagar,15.37,75.119,Clear,520,Minor
+71,2025-02-14,13:00,MG Road Junction,15.3647,75.1239,Cloudy,436,Minor
+72,2025-03-31,10:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,1006,Minor
+73,2025-02-14,04:00,Keshwapur,15.3565,75.1325,Cloudy,280,Minor
+74,2025-01-08,12:00,Vidya Nagar,15.37,75.119,Rain,697,Minor
+75,2025-01-26,06:00,Unkal Lake Road,15.373,75.1115,Rain,439,Minor
+76,2025-01-30,03:00,Airport Road,15.3705,75.096,Cloudy,250,Minor
+77,2025-02-11,08:00,Airport Road,15.3705,75.096,Clear,736,Minor
+78,2025-01-08,22:00,Gokul Road,15.3652,75.1106,Cloudy,753,Moderate
+79,2025-04-06,20:00,MG Road Junction,15.3647,75.1239,Clear,890,Minor
+80,2025-02-19,08:00,Vidya Nagar,15.37,75.119,Rain,915,Minor
+81,2025-01-06,07:00,Unkal Lake Road,15.373,75.1115,Rain,867,Minor
+82,2025-03-28,01:00,MG Road Junction,15.3647,75.1239,Clear,379,Minor
+83,2025-03-17,16:00,Unkal Lake Road,15.373,75.1115,Clear,356,Minor
+84,2025-03-15,06:00,Unkal Lake Road,15.373,75.1115,Clear,291,Moderate
+85,2025-04-19,21:00,Vidya Nagar,15.37,75.119,Clear,652,Major
+86,2025-01-24,17:00,Vidya Nagar,15.37,75.119,Clear,786,Minor
+87,2025-03-12,06:00,Old Bus Stand,15.3502,75.138,Clear,573,Moderate
+88,2025-03-05,17:00,Unkal Lake Road,15.373,75.1115,Clear,716,Minor
+89,2025-02-16,11:00,MG Road Junction,15.3647,75.1239,Rain,910,Minor
+90,2025-03-24,14:00,Gokul Road,15.3652,75.1106,Rain,565,Major
+91,2025-04-14,19:00,Airport Road,15.3705,75.096,Clear,711,Moderate
+92,2025-04-07,07:00,Hubballi Railway Station,15.3515,75.1387,Clear,1016,Major
+93,2025-02-20,19:00,Vidya Nagar,15.37,75.119,Clear,844,Minor
+94,2025-01-27,11:00,Vidya Nagar,15.37,75.119,Rain,591,Minor
+95,2025-02-17,01:00,Old Bus Stand,15.3502,75.138,Cloudy,447,Minor
+96,2025-01-28,08:00,MG Road Junction,15.3647,75.1239,Clear,907,Moderate
+97,2025-03-17,10:00,Keshwapur,15.3565,75.1325,Clear,839,Minor
+98,2025-01-05,20:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,981,Moderate
+99,2025-02-17,22:00,MG Road Junction,15.3647,75.1239,Fog,437,Minor
+100,2025-03-11,08:00,MG Road Junction,15.3647,75.1239,Rain,1416,Minor
+101,2025-01-22,08:00,Vidya Nagar,15.37,75.119,Clear,938,Moderate
+102,2025-02-16,15:00,Keshwapur,15.3565,75.1325,Cloudy,388,Moderate
+103,2025-02-07,08:00,Keshwapur,15.3565,75.1325,Cloudy,1127,Minor
+104,2025-04-06,14:00,Unkal Lake Road,15.373,75.1115,Rain,569,Major
+105,2025-01-07,09:00,Airport Road,15.3705,75.096,Clear,803,Minor
+106,2025-02-12,00:00,Hubballi Railway Station,15.3515,75.1387,Clear,492,Minor
+107,2025-03-31,05:00,Vidya Nagar,15.37,75.119,Rain,462,Moderate
+108,2025-04-16,01:00,MG Road Junction,15.3647,75.1239,Clear,372,Major
+109,2025-04-14,07:00,MG Road Junction,15.3647,75.1239,Clear,1112,Moderate
+110,2025-04-10,12:00,Hubballi Railway Station,15.3515,75.1387,Clear,501,Moderate
+111,2025-01-23,22:00,Unkal Lake Road,15.373,75.1115,Clear,560,Moderate
+112,2025-02-12,07:00,Hubballi Railway Station,15.3515,75.1387,Clear,944,Major
+113,2025-01-14,23:00,Keshwapur,15.3565,75.1325,Cloudy,578,Minor
+114,2025-01-21,16:00,Vidya Nagar,15.37,75.119,Cloudy,350,Moderate
+115,2025-02-07,07:00,Old Bus Stand,15.3502,75.138,Clear,1541,Moderate
+116,2025-04-12,03:00,Hubballi Railway Station,15.3515,75.1387,Fog,353,Minor
+117,2025-03-07,08:00,Gokul Road,15.3652,75.1106,Clear,942,Minor
+118,2025-03-10,04:00,Airport Road,15.3705,75.096,Clear,374,Minor
+119,2025-02-14,10:00,Airport Road,15.3705,75.096,Fog,690,Moderate
+120,2025-04-12,20:00,Vidya Nagar,15.37,75.119,Clear,646,Minor
+121,2025-01-04,17:00,Airport Road,15.3705,75.096,Clear,818,Moderate
+122,2025-03-09,17:00,Keshwapur,15.3565,75.1325,Cloudy,515,Minor
+123,2025-01-18,09:00,Airport Road,15.3705,75.096,Cloudy,481,Minor
+124,2025-01-05,18:00,Unkal Lake Road,15.373,75.1115,Cloudy,735,Major
+125,2025-03-10,17:00,Unkal Lake Road,15.373,75.1115,Clear,760,Moderate
+126,2025-03-05,04:00,Gokul Road,15.3652,75.1106,Cloudy,472,Minor
+127,2025-01-31,08:00,MG Road Junction,15.3647,75.1239,Clear,1039,Minor
+128,2025-03-20,20:00,Vidya Nagar,15.37,75.119,Rain,1163,Moderate
+129,2025-02-10,17:00,Old Bus Stand,15.3502,75.138,Fog,858,Major
+130,2025-02-12,00:00,Unkal Lake Road,15.373,75.1115,Rain,456,Major
+131,2025-04-23,22:00,Vidya Nagar,15.37,75.119,Clear,367,Moderate
+132,2025-03-17,21:00,Airport Road,15.3705,75.096,Rain,856,Minor
+133,2025-02-06,20:00,Old Bus Stand,15.3502,75.138,Clear,1038,Minor
+134,2025-02-18,15:00,Airport Road,15.3705,75.096,Clear,286,Minor
+135,2025-01-27,09:00,Vidya Nagar,15.37,75.119,Cloudy,686,Minor
+136,2025-04-16,19:00,Gokul Road,15.3652,75.1106,Clear,1153,Minor
+137,2025-02-20,17:00,Airport Road,15.3705,75.096,Cloudy,699,Minor
+138,2025-04-10,10:00,Old Bus Stand,15.3502,75.138,Cloudy,1132,Moderate
+139,2025-03-19,08:00,Gokul Road,15.3652,75.1106,Clear,1014,Minor
+140,2025-01-10,00:00,Unkal Lake Road,15.373,75.1115,Cloudy,525,Moderate
+141,2025-02-25,04:00,Unkal Lake Road,15.373,75.1115,Clear,318,Major
+142,2025-02-18,03:00,Gokul Road,15.3652,75.1106,Clear,512,Moderate
+143,2025-03-18,03:00,Old Bus Stand,15.3502,75.138,Clear,585,Moderate
+144,2025-04-14,20:00,Vidya Nagar,15.37,75.119,Rain,892,Moderate
+145,2025-03-20,09:00,MG Road Junction,15.3647,75.1239,Clear,1286,Minor
+146,2025-02-01,09:00,Keshwapur,15.3565,75.1325,Clear,450,Minor
+147,2025-02-20,14:00,MG Road Junction,15.3647,75.1239,Clear,549,Minor
+148,2025-03-29,17:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,824,Minor
+149,2025-04-03,12:00,Keshwapur,15.3565,75.1325,Rain,727,Moderate
+150,2025-01-09,10:00,MG Road Junction,15.3647,75.1239,Clear,1328,Major
+151,2025-02-22,04:00,Unkal Lake Road,15.373,75.1115,Cloudy,268,Major
+152,2025-04-23,15:00,Vidya Nagar,15.37,75.119,Clear,398,Minor
+153,2025-02-26,09:00,Keshwapur,15.3565,75.1325,Clear,790,Major
+154,2025-04-28,23:00,Hubballi Railway Station,15.3515,75.1387,Clear,408,Minor
+155,2025-01-28,19:00,Vidya Nagar,15.37,75.119,Rain,1057,Moderate
+156,2025-02-12,23:00,Unkal Lake Road,15.373,75.1115,Clear,448,Minor
+157,2025-02-17,17:00,Hubballi Railway Station,15.3515,75.1387,Clear,1169,Minor
+158,2025-02-27,03:00,Old Bus Stand,15.3502,75.138,Rain,514,Minor
+159,2025-01-23,11:00,Hubballi Railway Station,15.3515,75.1387,Clear,537,Moderate
+160,2025-02-21,00:00,MG Road Junction,15.3647,75.1239,Cloudy,645,Minor
+161,2025-03-26,20:00,Airport Road,15.3705,75.096,Clear,711,Minor
+162,2025-01-17,05:00,Old Bus Stand,15.3502,75.138,Cloudy,583,Major
+163,2025-03-18,14:00,Keshwapur,15.3565,75.1325,Rain,644,Major
+164,2025-02-03,05:00,Airport Road,15.3705,75.096,Cloudy,186,Minor
+165,2025-04-02,09:00,Old Bus Stand,15.3502,75.138,Clear,1079,Moderate
+166,2025-01-03,14:00,Vidya Nagar,15.37,75.119,Clear,458,Minor
+167,2025-04-29,10:00,Airport Road,15.3705,75.096,Clear,598,Minor
+168,2025-03-02,20:00,Airport Road,15.3705,75.096,Cloudy,524,Minor
+169,2025-04-24,12:00,Unkal Lake Road,15.373,75.1115,Cloudy,311,Minor
+170,2025-03-28,17:00,MG Road Junction,15.3647,75.1239,Clear,1121,Minor
+171,2025-01-12,03:00,Gokul Road,15.3652,75.1106,Cloudy,331,Moderate
+172,2025-02-01,18:00,Hubballi Railway Station,15.3515,75.1387,Clear,1057,Minor
+173,2025-04-13,00:00,Unkal Lake Road,15.373,75.1115,Clear,234,Moderate
+174,2025-01-25,01:00,Keshwapur,15.3565,75.1325,Cloudy,384,Moderate
+175,2025-02-01,19:00,Gokul Road,15.3652,75.1106,Cloudy,908,Minor
+176,2025-04-01,20:00,Unkal Lake Road,15.373,75.1115,Clear,760,Minor
+177,2025-04-19,01:00,Keshwapur,15.3565,75.1325,Rain,689,Moderate
+178,2025-01-02,18:00,Gokul Road,15.3652,75.1106,Fog,888,Moderate
+179,2025-03-21,10:00,Vidya Nagar,15.37,75.119,Clear,953,Moderate
+180,2025-02-01,16:00,MG Road Junction,15.3647,75.1239,Clear,113,Moderate
+181,2025-01-15,23:00,Unkal Lake Road,15.373,75.1115,Cloudy,308,Minor
+182,2025-03-20,15:00,Keshwapur,15.3565,75.1325,Clear,534,Moderate
+183,2025-01-04,20:00,Vidya Nagar,15.37,75.119,Clear,668,Minor
+184,2025-01-26,03:00,Old Bus Stand,15.3502,75.138,Rain,319,Major
+185,2025-04-23,04:00,Gokul Road,15.3652,75.1106,Clear,798,Moderate
+186,2025-03-24,00:00,Unkal Lake Road,15.373,75.1115,Cloudy,440,Minor
+187,2025-03-18,12:00,Vidya Nagar,15.37,75.119,Rain,352,Minor
+188,2025-04-06,06:00,MG Road Junction,15.3647,75.1239,Cloudy,288,Moderate
+189,2025-01-27,00:00,Keshwapur,15.3565,75.1325,Rain,615,Minor
+190,2025-01-16,04:00,Keshwapur,15.3565,75.1325,Cloudy,670,Minor
+191,2025-02-06,18:00,Gokul Road,15.3652,75.1106,Clear,1034,Moderate
+192,2025-04-11,10:00,Keshwapur,15.3565,75.1325,Rain,1142,Moderate
+193,2025-01-21,04:00,MG Road Junction,15.3647,75.1239,Clear,767,Minor
+194,2025-03-28,11:00,Old Bus Stand,15.3502,75.138,Rain,765,Moderate
+195,2025-03-24,08:00,Airport Road,15.3705,75.096,Clear,628,Major
+196,2025-04-05,19:00,Old Bus Stand,15.3502,75.138,Rain,994,Major
+197,2025-04-09,10:00,Unkal Lake Road,15.373,75.1115,Clear,722,Moderate
+198,2025-03-02,20:00,Unkal Lake Road,15.373,75.1115,Clear,510,Major
+199,2025-03-14,05:00,Old Bus Stand,15.3502,75.138,Clear,538,Moderate
+200,2025-04-17,19:00,MG Road Junction,15.3647,75.1239,Clear,990,Minor
+201,2025-03-15,03:00,Gokul Road,15.3652,75.1106,Clear,357,Moderate
+202,2025-01-05,21:00,MG Road Junction,15.3647,75.1239,Clear,999,Minor
+203,2025-01-09,01:00,Unkal Lake Road,15.373,75.1115,Rain,548,Minor
+204,2025-03-02,18:00,Vidya Nagar,15.37,75.119,Clear,673,Minor
+205,2025-04-09,21:00,Keshwapur,15.3565,75.1325,Clear,992,Moderate
+206,2025-01-10,08:00,MG Road Junction,15.3647,75.1239,Clear,1367,Moderate
+207,2025-01-05,16:00,Old Bus Stand,15.3502,75.138,Clear,716,Moderate
+208,2025-03-07,13:00,Keshwapur,15.3565,75.1325,Clear,379,Minor
+209,2025-03-18,04:00,Keshwapur,15.3565,75.1325,Clear,394,Minor
+210,2025-03-26,10:00,Unkal Lake Road,15.373,75.1115,Clear,765,Minor
+211,2025-01-29,17:00,Unkal Lake Road,15.373,75.1115,Cloudy,615,Moderate
+212,2025-03-27,20:00,MG Road Junction,15.3647,75.1239,Clear,1038,Minor
+213,2025-02-25,22:00,Gokul Road,15.3652,75.1106,Clear,355,Minor
+214,2025-03-10,04:00,Gokul Road,15.3652,75.1106,Clear,726,Minor
+215,2025-04-28,16:00,MG Road Junction,15.3647,75.1239,Clear,191,Moderate
+216,2025-03-08,20:00,Unkal Lake Road,15.373,75.1115,Cloudy,720,Major
+217,2025-03-07,10:00,Vidya Nagar,15.37,75.119,Clear,906,Moderate
+218,2025-04-17,16:00,Gokul Road,15.3652,75.1106,Clear,327,Minor
+219,2025-02-24,23:00,Vidya Nagar,15.37,75.119,Rain,531,Minor
+220,2025-03-19,07:00,Old Bus Stand,15.3502,75.138,Rain,1045,Minor
+221,2025-02-06,08:00,Keshwapur,15.3565,75.1325,Clear,960,Minor
+222,2025-04-29,13:00,Keshwapur,15.3565,75.1325,Clear,490,Minor
+223,2025-04-20,05:00,Airport Road,15.3705,75.096,Cloudy,328,Minor
+224,2025-03-15,20:00,Keshwapur,15.3565,75.1325,Clear,864,Minor
+225,2025-01-26,15:00,Keshwapur,15.3565,75.1325,Clear,197,Minor
+226,2025-04-20,10:00,Vidya Nagar,15.37,75.119,Clear,573,Minor
+227,2025-02-20,02:00,Vidya Nagar,15.37,75.119,Rain,385,Moderate
+228,2025-03-03,07:00,MG Road Junction,15.3647,75.1239,Rain,883,Major
+229,2025-03-10,14:00,Vidya Nagar,15.37,75.119,Rain,518,Major
+230,2025-04-19,05:00,MG Road Junction,15.3647,75.1239,Rain,622,Minor
+231,2025-04-08,08:00,Gokul Road,15.3652,75.1106,Clear,970,Minor
+232,2025-04-21,05:00,Hubballi Railway Station,15.3515,75.1387,Rain,1011,Moderate
+233,2025-03-19,09:00,Unkal Lake Road,15.373,75.1115,Clear,827,Minor
+234,2025-04-05,19:00,Gokul Road,15.3652,75.1106,Clear,886,Moderate
+235,2025-03-21,04:00,Vidya Nagar,15.37,75.119,Rain,497,Moderate
+236,2025-01-06,09:00,Keshwapur,15.3565,75.1325,Rain,1067,Major
+237,2025-04-27,18:00,Old Bus Stand,15.3502,75.138,Clear,828,Major
+238,2025-01-01,10:00,Unkal Lake Road,15.373,75.1115,Clear,783,Moderate
+239,2025-03-19,17:00,Vidya Nagar,15.37,75.119,Rain,994,Moderate
+240,2025-04-24,18:00,MG Road Junction,15.3647,75.1239,Rain,1260,Minor
+241,2025-02-12,05:00,Unkal Lake Road,15.373,75.1115,Clear,296,Minor
+242,2025-01-03,02:00,Gokul Road,15.3652,75.1106,Clear,495,Minor
+243,2025-04-28,18:00,Hubballi Railway Station,15.3515,75.1387,Clear,709,Minor
+244,2025-03-16,16:00,Gokul Road,15.3652,75.1106,Rain,391,Minor
+245,2025-02-08,23:00,Vidya Nagar,15.37,75.119,Clear,255,Minor
+246,2025-01-09,09:00,Gokul Road,15.3652,75.1106,Clear,832,Moderate
+247,2025-01-23,08:00,Airport Road,15.3705,75.096,Cloudy,668,Minor
+248,2025-03-30,10:00,Old Bus Stand,15.3502,75.138,Clear,707,Minor
+249,2025-01-20,18:00,Old Bus Stand,15.3502,75.138,Clear,1183,Minor
+250,2025-01-18,09:00,Old Bus Stand,15.3502,75.138,Clear,638,Minor
+251,2025-02-09,02:00,MG Road Junction,15.3647,75.1239,Cloudy,535,Minor
+252,2025-02-20,02:00,MG Road Junction,15.3647,75.1239,Clear,617,Major
+253,2025-03-24,22:00,Old Bus Stand,15.3502,75.138,Rain,466,Moderate
+254,2025-03-20,07:00,Airport Road,15.3705,75.096,Clear,563,Minor
+255,2025-02-19,08:00,Vidya Nagar,15.37,75.119,Cloudy,904,Minor
+256,2025-01-12,20:00,Old Bus Stand,15.3502,75.138,Clear,911,Minor
+257,2025-04-24,01:00,Vidya Nagar,15.37,75.119,Rain,653,Moderate
+258,2025-04-02,19:00,Gokul Road,15.3652,75.1106,Clear,1056,Minor
+259,2025-02-27,15:00,Unkal Lake Road,15.373,75.1115,Rain,558,Minor
+260,2025-01-14,14:00,MG Road Junction,15.3647,75.1239,Fog,907,Minor
+261,2025-03-04,12:00,MG Road Junction,15.3647,75.1239,Clear,504,Major
+262,2025-02-02,00:00,MG Road Junction,15.3647,75.1239,Clear,260,Minor
+263,2025-02-28,02:00,Hubballi Railway Station,15.3515,75.1387,Clear,780,Major
+264,2025-02-17,08:00,Old Bus Stand,15.3502,75.138,Clear,776,Minor
+265,2025-01-03,06:00,Hubballi Railway Station,15.3515,75.1387,Clear,524,Moderate
+266,2025-03-25,14:00,Unkal Lake Road,15.373,75.1115,Cloudy,475,Moderate
+267,2025-04-14,18:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,1024,Minor
+268,2025-04-28,00:00,Keshwapur,15.3565,75.1325,Clear,719,Minor
+269,2025-04-16,18:00,Airport Road,15.3705,75.096,Cloudy,812,Minor
+270,2025-01-19,19:00,Unkal Lake Road,15.373,75.1115,Cloudy,538,Minor
+271,2025-01-07,20:00,Hubballi Railway Station,15.3515,75.1387,Clear,1038,Moderate
+272,2025-02-07,21:00,MG Road Junction,15.3647,75.1239,Rain,1420,Minor
+273,2025-03-25,09:00,Airport Road,15.3705,75.096,Clear,600,Moderate
+274,2025-03-27,14:00,Unkal Lake Road,15.373,75.1115,Clear,426,Minor
+275,2025-01-14,17:00,Vidya Nagar,15.37,75.119,Clear,774,Minor
+276,2025-02-08,02:00,Old Bus Stand,15.3502,75.138,Rain,522,Moderate
+277,2025-01-04,09:00,Keshwapur,15.3565,75.1325,Cloudy,976,Moderate
+278,2025-01-22,09:00,MG Road Junction,15.3647,75.1239,Clear,949,Minor
+279,2025-03-22,19:00,Hubballi Railway Station,15.3515,75.1387,Clear,1020,Minor
+280,2025-02-28,17:00,Unkal Lake Road,15.373,75.1115,Rain,1005,Minor
+281,2025-01-30,10:00,Keshwapur,15.3565,75.1325,Clear,871,Moderate
+282,2025-02-08,21:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,853,Minor
+283,2025-02-14,20:00,Hubballi Railway Station,15.3515,75.1387,Clear,1188,Minor
+284,2025-03-20,18:00,MG Road Junction,15.3647,75.1239,Clear,958,Moderate
+285,2025-02-24,07:00,Airport Road,15.3705,75.096,Cloudy,827,Minor
+286,2025-03-29,18:00,Gokul Road,15.3652,75.1106,Clear,844,Minor
+287,2025-01-31,15:00,Vidya Nagar,15.37,75.119,Cloudy,345,Minor
+288,2025-04-26,08:00,Gokul Road,15.3652,75.1106,Rain,1002,Major
+289,2025-04-21,17:00,Keshwapur,15.3565,75.1325,Clear,993,Major
+290,2025-03-28,17:00,MG Road Junction,15.3647,75.1239,Rain,1292,Moderate
+291,2025-03-12,20:00,Old Bus Stand,15.3502,75.138,Rain,1119,Minor
+292,2025-03-13,04:00,Airport Road,15.3705,75.096,Fog,340,Moderate
+293,2025-04-22,17:00,Gokul Road,15.3652,75.1106,Clear,990,Minor
+294,2025-01-29,20:00,Keshwapur,15.3565,75.1325,Cloudy,895,Minor
+295,2025-02-03,01:00,Vidya Nagar,15.37,75.119,Fog,579,Major
+296,2025-04-24,11:00,Airport Road,15.3705,75.096,Cloudy,242,Minor
+297,2025-04-27,07:00,Old Bus Stand,15.3502,75.138,Clear,985,Minor
+298,2025-02-22,02:00,Vidya Nagar,15.37,75.119,Clear,413,Major
+299,2025-04-23,23:00,Unkal Lake Road,15.373,75.1115,Fog,500,Moderate
+300,2025-03-16,09:00,Old Bus Stand,15.3502,75.138,Clear,671,Minor
+301,2025-01-16,04:00,Vidya Nagar,15.37,75.119,Clear,205,Minor
+302,2025-01-03,12:00,Airport Road,15.3705,75.096,Clear,345,Minor
+303,2025-03-29,01:00,Gokul Road,15.3652,75.1106,Fog,403,Minor
+304,2025-01-08,03:00,Gokul Road,15.3652,75.1106,Clear,396,Minor
+305,2025-03-02,18:00,Keshwapur,15.3565,75.1325,Cloudy,857,Minor
+306,2025-01-15,02:00,Keshwapur,15.3565,75.1325,Cloudy,688,Major
+307,2025-02-16,08:00,MG Road Junction,15.3647,75.1239,Rain,1010,Minor
+308,2025-02-23,19:00,MG Road Junction,15.3647,75.1239,Clear,646,Minor
+309,2025-01-27,04:00,Unkal Lake Road,15.373,75.1115,Cloudy,373,Minor
+310,2025-03-05,09:00,Airport Road,15.3705,75.096,Cloudy,824,Minor
+311,2025-02-04,10:00,Old Bus Stand,15.3502,75.138,Fog,1118,Minor
+312,2025-03-04,12:00,Old Bus Stand,15.3502,75.138,Cloudy,694,Major
+313,2025-04-04,03:00,Keshwapur,15.3565,75.1325,Clear,358,Moderate
+314,2025-04-29,20:00,Hubballi Railway Station,15.3515,75.1387,Clear,1212,Minor
+315,2025-01-02,14:00,Old Bus Stand,15.3502,75.138,Rain,631,Major
+316,2025-02-08,08:00,Unkal Lake Road,15.373,75.1115,Clear,499,Minor
+317,2025-02-17,03:00,Old Bus Stand,15.3502,75.138,Clear,646,Moderate
+318,2025-01-13,22:00,Hubballi Railway Station,15.3515,75.1387,Clear,714,Minor
+319,2025-01-31,18:00,MG Road Junction,15.3647,75.1239,Clear,1094,Major
+320,2025-01-11,10:00,Unkal Lake Road,15.373,75.1115,Rain,539,Minor
+321,2025-03-17,04:00,Gokul Road,15.3652,75.1106,Cloudy,650,Moderate
+322,2025-02-03,21:00,Keshwapur,15.3565,75.1325,Rain,1171,Moderate
+323,2025-01-02,04:00,MG Road Junction,15.3647,75.1239,Clear,606,Minor
+324,2025-03-26,16:00,Keshwapur,15.3565,75.1325,Clear,589,Minor
+325,2025-01-30,00:00,Vidya Nagar,15.37,75.119,Clear,452,Minor
+326,2025-04-20,08:00,Old Bus Stand,15.3502,75.138,Cloudy,816,Moderate
+327,2025-03-25,06:00,Gokul Road,15.3652,75.1106,Clear,519,Minor
+328,2025-03-18,04:00,Keshwapur,15.3565,75.1325,Clear,459,Moderate
+329,2025-02-25,05:00,Gokul Road,15.3652,75.1106,Clear,384,Major
+330,2025-01-01,10:00,Gokul Road,15.3652,75.1106,Cloudy,1014,Minor
+331,2025-03-19,20:00,Old Bus Stand,15.3502,75.138,Rain,1212,Minor
+332,2025-02-25,13:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,419,Moderate
+333,2025-02-06,20:00,Vidya Nagar,15.37,75.119,Cloudy,895,Moderate
+334,2025-02-27,21:00,Old Bus Stand,15.3502,75.138,Rain,1297,Major
+335,2025-04-17,09:00,Keshwapur,15.3565,75.1325,Clear,1033,Minor
+336,2025-04-25,00:00,Airport Road,15.3705,75.096,Rain,501,Minor
+337,2025-03-08,12:00,Old Bus Stand,15.3502,75.138,Rain,530,Moderate
+338,2025-04-13,18:00,Airport Road,15.3705,75.096,Clear,607,Moderate
+339,2025-02-05,09:00,Unkal Lake Road,15.373,75.1115,Rain,904,Moderate
+340,2025-03-26,14:00,MG Road Junction,15.3647,75.1239,Clear,519,Minor
+341,2025-02-23,18:00,Gokul Road,15.3652,75.1106,Fog,898,Minor
+342,2025-04-27,01:00,MG Road Junction,15.3647,75.1239,Clear,442,Minor
+343,2025-02-26,11:00,Airport Road,15.3705,75.096,Cloudy,334,Major
+344,2025-02-09,18:00,Old Bus Stand,15.3502,75.138,Cloudy,952,Minor
+345,2025-01-25,16:00,Unkal Lake Road,15.373,75.1115,Clear,287,Moderate
+346,2025-02-25,04:00,Airport Road,15.3705,75.096,Rain,413,Moderate
+347,2025-04-10,20:00,Gokul Road,15.3652,75.1106,Rain,1162,Minor
+348,2025-02-24,16:00,Hubballi Railway Station,15.3515,75.1387,Clear,892,Minor
+349,2025-03-13,00:00,MG Road Junction,15.3647,75.1239,Rain,825,Moderate
+350,2025-04-19,12:00,Airport Road,15.3705,75.096,Cloudy,236,Minor
+351,2025-01-24,04:00,MG Road Junction,15.3647,75.1239,Rain,658,Minor
+352,2025-04-24,07:00,Unkal Lake Road,15.373,75.1115,Cloudy,736,Minor
+353,2025-03-24,17:00,MG Road Junction,15.3647,75.1239,Rain,1180,Moderate
+354,2025-02-17,08:00,Gokul Road,15.3652,75.1106,Rain,1354,Major
+355,2025-01-25,09:00,Old Bus Stand,15.3502,75.138,Cloudy,790,Moderate
+356,2025-01-24,19:00,MG Road Junction,15.3647,75.1239,Fog,1188,Moderate
+357,2025-03-28,20:00,Hubballi Railway Station,15.3515,75.1387,Clear,1221,Minor
+358,2025-01-12,13:00,MG Road Junction,15.3647,75.1239,Clear,348,Moderate
+359,2025-02-20,19:00,Vidya Nagar,15.37,75.119,Clear,781,Major
+360,2025-04-18,03:00,Airport Road,15.3705,75.096,Clear,233,Minor
+361,2025-02-06,21:00,Gokul Road,15.3652,75.1106,Rain,1122,Minor
+362,2025-04-25,16:00,Keshwapur,15.3565,75.1325,Clear,375,Major
+363,2025-04-09,01:00,Vidya Nagar,15.37,75.119,Rain,455,Moderate
+364,2025-01-30,07:00,Gokul Road,15.3652,75.1106,Rain,1161,Minor
+365,2025-04-15,11:00,Vidya Nagar,15.37,75.119,Clear,344,Major
+366,2025-03-30,14:00,Keshwapur,15.3565,75.1325,Clear,377,Minor
+367,2025-01-22,11:00,Airport Road,15.3705,75.096,Clear,329,Minor
+368,2025-03-25,08:00,Vidya Nagar,15.37,75.119,Clear,814,Moderate
+369,2025-04-12,20:00,Old Bus Stand,15.3502,75.138,Rain,1027,Minor
+370,2025-02-06,22:00,Gokul Road,15.3652,75.1106,Cloudy,672,Moderate
+371,2025-04-29,12:00,Airport Road,15.3705,75.096,Rain,412,Minor
+372,2025-04-02,20:00,Old Bus Stand,15.3502,75.138,Cloudy,952,Minor
+373,2025-02-11,04:00,Vidya Nagar,15.37,75.119,Cloudy,388,Minor
+374,2025-02-06,04:00,Keshwapur,15.3565,75.1325,Rain,783,Moderate
+375,2025-01-04,11:00,Hubballi Railway Station,15.3515,75.1387,Clear,440,Minor
+376,2025-03-24,08:00,Keshwapur,15.3565,75.1325,Cloudy,899,Major
+377,2025-02-03,00:00,Unkal Lake Road,15.373,75.1115,Rain,511,Moderate
+378,2025-03-17,09:00,Unkal Lake Road,15.373,75.1115,Cloudy,726,Minor
+379,2025-04-04,23:00,MG Road Junction,15.3647,75.1239,Clear,367,Minor
+380,2025-03-08,23:00,Vidya Nagar,15.37,75.119,Clear,528,Moderate
+381,2025-01-22,15:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,463,Minor
+382,2025-03-06,23:00,Vidya Nagar,15.37,75.119,Rain,544,Minor
+383,2025-01-16,17:00,Keshwapur,15.3565,75.1325,Clear,826,Minor
+384,2025-04-04,21:00,Unkal Lake Road,15.373,75.1115,Clear,926,Minor
+385,2025-03-12,21:00,Gokul Road,15.3652,75.1106,Clear,1239,Minor
+386,2025-02-12,05:00,MG Road Junction,15.3647,75.1239,Rain,679,Moderate
+387,2025-04-12,09:00,Unkal Lake Road,15.373,75.1115,Rain,595,Major
+388,2025-01-25,07:00,Keshwapur,15.3565,75.1325,Cloudy,873,Minor
+389,2025-01-17,10:00,Vidya Nagar,15.37,75.119,Fog,784,Moderate
+390,2025-01-03,23:00,Hubballi Railway Station,15.3515,75.1387,Rain,884,Major
+391,2025-02-25,23:00,Keshwapur,15.3565,75.1325,Clear,510,Major
+392,2025-02-27,21:00,Old Bus Stand,15.3502,75.138,Clear,1031,Major
+393,2025-02-02,10:00,Unkal Lake Road,15.373,75.1115,Clear,624,Moderate
+394,2025-02-16,07:00,Vidya Nagar,15.37,75.119,Rain,840,Moderate
+395,2025-03-07,16:00,Unkal Lake Road,15.373,75.1115,Clear,282,Minor
+396,2025-01-25,15:00,Gokul Road,15.3652,75.1106,Cloudy,354,Minor
+397,2025-02-16,05:00,Vidya Nagar,15.37,75.119,Rain,539,Major
+398,2025-03-31,03:00,Hubballi Railway Station,15.3515,75.1387,Fog,298,Minor
+399,2025-04-24,08:00,Vidya Nagar,15.37,75.119,Cloudy,915,Minor
+400,2025-03-23,07:00,MG Road Junction,15.3647,75.1239,Cloudy,807,Minor
+401,2025-03-23,05:00,Old Bus Stand,15.3502,75.138,Clear,328,Moderate
+402,2025-04-20,20:00,Vidya Nagar,15.37,75.119,Clear,717,Moderate
+403,2025-01-04,17:00,Unkal Lake Road,15.373,75.1115,Fog,585,Minor
+404,2025-01-05,09:00,Airport Road,15.3705,75.096,Cloudy,531,Minor
+405,2025-02-06,22:00,Unkal Lake Road,15.373,75.1115,Cloudy,193,Moderate
+406,2025-03-13,09:00,Unkal Lake Road,15.373,75.1115,Rain,1043,Minor
+407,2025-02-16,03:00,Old Bus Stand,15.3502,75.138,Rain,316,Moderate
+408,2025-01-09,15:00,Airport Road,15.3705,75.096,Cloudy,397,Minor
+409,2025-02-10,10:00,Old Bus Stand,15.3502,75.138,Cloudy,793,Major
+410,2025-03-07,00:00,Keshwapur,15.3565,75.1325,Clear,456,Minor
+411,2025-02-25,04:00,Unkal Lake Road,15.373,75.1115,Clear,503,Moderate
+412,2025-02-22,18:00,Gokul Road,15.3652,75.1106,Clear,806,Moderate
+413,2025-04-01,09:00,Vidya Nagar,15.37,75.119,Clear,685,Minor
+414,2025-01-13,18:00,Hubballi Railway Station,15.3515,75.1387,Rain,1000,Minor
+415,2025-01-19,12:00,Hubballi Railway Station,15.3515,75.1387,Rain,279,Minor
+416,2025-02-21,06:00,Airport Road,15.3705,75.096,Rain,325,Major
+417,2025-03-14,20:00,Vidya Nagar,15.37,75.119,Cloudy,1182,Minor
+418,2025-01-17,19:00,Vidya Nagar,15.37,75.119,Clear,838,Moderate
+419,2025-04-26,19:00,MG Road Junction,15.3647,75.1239,Clear,770,Major
+420,2025-04-18,11:00,Hubballi Railway Station,15.3515,75.1387,Clear,525,Moderate
+421,2025-02-09,19:00,Vidya Nagar,15.37,75.119,Rain,737,Moderate
+422,2025-03-13,08:00,Hubballi Railway Station,15.3515,75.1387,Clear,984,Moderate
+423,2025-04-13,19:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,848,Major
+424,2025-03-16,21:00,Gokul Road,15.3652,75.1106,Rain,1118,Major
+425,2025-01-13,06:00,Keshwapur,15.3565,75.1325,Clear,439,Major
+426,2025-01-08,17:00,Old Bus Stand,15.3502,75.138,Clear,942,Moderate
+427,2025-01-20,21:00,Airport Road,15.3705,75.096,Cloudy,635,Minor
+428,2025-03-10,14:00,MG Road Junction,15.3647,75.1239,Clear,497,Minor
+429,2025-03-25,16:00,Vidya Nagar,15.37,75.119,Clear,361,Minor
+430,2025-03-27,06:00,Gokul Road,15.3652,75.1106,Clear,549,Major
+431,2025-01-13,12:00,Keshwapur,15.3565,75.1325,Rain,525,Major
+432,2025-01-27,05:00,Keshwapur,15.3565,75.1325,Fog,537,Minor
+433,2025-03-09,20:00,Unkal Lake Road,15.373,75.1115,Cloudy,541,Minor
+434,2025-03-13,02:00,Hubballi Railway Station,15.3515,75.1387,Clear,467,Minor
+435,2025-03-26,04:00,Keshwapur,15.3565,75.1325,Rain,839,Minor
+436,2025-03-07,19:00,Gokul Road,15.3652,75.1106,Clear,858,Moderate
+437,2025-04-02,19:00,MG Road Junction,15.3647,75.1239,Clear,1227,Minor
+438,2025-03-14,14:00,Old Bus Stand,15.3502,75.138,Rain,422,Minor
+439,2025-02-09,20:00,Gokul Road,15.3652,75.1106,Cloudy,800,Minor
+440,2025-03-22,19:00,Airport Road,15.3705,75.096,Cloudy,645,Minor
+441,2025-01-12,17:00,Vidya Nagar,15.37,75.119,Clear,593,Major
+442,2025-02-19,08:00,Hubballi Railway Station,15.3515,75.1387,Clear,1313,Minor
+443,2025-01-21,09:00,Keshwapur,15.3565,75.1325,Cloudy,945,Major
+444,2025-04-06,09:00,Gokul Road,15.3652,75.1106,Cloudy,809,Minor
+445,2025-02-20,08:00,Hubballi Railway Station,15.3515,75.1387,Clear,1088,Minor
+446,2025-02-21,22:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,485,Moderate
+447,2025-02-08,06:00,Vidya Nagar,15.37,75.119,Clear,291,Moderate
+448,2025-02-26,15:00,MG Road Junction,15.3647,75.1239,Clear,555,Moderate
+449,2025-04-27,09:00,Gokul Road,15.3652,75.1106,Cloudy,650,Minor
+450,2025-01-22,12:00,Unkal Lake Road,15.373,75.1115,Rain,561,Minor
+451,2025-03-05,06:00,Old Bus Stand,15.3502,75.138,Clear,409,Moderate
+452,2025-02-17,14:00,MG Road Junction,15.3647,75.1239,Rain,536,Minor
+453,2025-04-01,01:00,MG Road Junction,15.3647,75.1239,Clear,583,Minor
+454,2025-01-13,14:00,Gokul Road,15.3652,75.1106,Clear,236,Moderate
+455,2025-04-27,07:00,Vidya Nagar,15.37,75.119,Rain,781,Minor
+456,2025-03-25,07:00,Hubballi Railway Station,15.3515,75.1387,Clear,952,Minor
+457,2025-03-11,21:00,Vidya Nagar,15.37,75.119,Cloudy,768,Minor
+458,2025-02-25,07:00,Keshwapur,15.3565,75.1325,Clear,800,Major
+459,2025-03-09,00:00,Gokul Road,15.3652,75.1106,Clear,334,Minor
+460,2025-04-20,20:00,Old Bus Stand,15.3502,75.138,Rain,1004,Major
+461,2025-03-11,11:00,Old Bus Stand,15.3502,75.138,Clear,298,Minor
+462,2025-02-26,10:00,Gokul Road,15.3652,75.1106,Cloudy,893,Moderate
+463,2025-03-04,08:00,Gokul Road,15.3652,75.1106,Clear,877,Minor
+464,2025-02-12,18:00,Gokul Road,15.3652,75.1106,Clear,1207,Minor
+465,2025-04-10,14:00,Keshwapur,15.3565,75.1325,Clear,449,Moderate
+466,2025-01-01,20:00,Hubballi Railway Station,15.3515,75.1387,Rain,1183,Moderate
+467,2025-03-18,03:00,Gokul Road,15.3652,75.1106,Clear,381,Moderate
+468,2025-02-02,20:00,Keshwapur,15.3565,75.1325,Clear,662,Moderate
+469,2025-01-06,20:00,Hubballi Railway Station,15.3515,75.1387,Clear,889,Minor
+470,2025-02-02,18:00,MG Road Junction,15.3647,75.1239,Clear,737,Minor
+471,2025-03-21,20:00,Old Bus Stand,15.3502,75.138,Clear,1201,Minor
+472,2025-01-16,12:00,MG Road Junction,15.3647,75.1239,Clear,775,Major
+473,2025-04-27,14:00,Keshwapur,15.3565,75.1325,Cloudy,437,Minor
+474,2025-01-05,09:00,Gokul Road,15.3652,75.1106,Clear,940,Major
+475,2025-04-24,05:00,Gokul Road,15.3652,75.1106,Rain,683,Minor
+476,2025-01-15,13:00,Vidya Nagar,15.37,75.119,Rain,493,Moderate
+477,2025-02-23,14:00,Airport Road,15.3705,75.096,Clear,293,Minor
+478,2025-02-16,03:00,Unkal Lake Road,15.373,75.1115,Cloudy,318,Minor
+479,2025-03-18,21:00,Hubballi Railway Station,15.3515,75.1387,Clear,998,Moderate
+480,2025-02-28,07:00,Hubballi Railway Station,15.3515,75.1387,Rain,1279,Minor
+481,2025-02-27,17:00,Keshwapur,15.3565,75.1325,Clear,905,Major
+482,2025-04-26,13:00,Old Bus Stand,15.3502,75.138,Rain,460,Moderate
+483,2025-01-01,09:00,Unkal Lake Road,15.373,75.1115,Clear,805,Moderate
+484,2025-01-03,01:00,Old Bus Stand,15.3502,75.138,Cloudy,829,Major
+485,2025-01-25,04:00,Keshwapur,15.3565,75.1325,Clear,460,Moderate
+486,2025-03-08,00:00,Old Bus Stand,15.3502,75.138,Rain,451,Moderate
+487,2025-01-21,02:00,Hubballi Railway Station,15.3515,75.1387,Clear,534,Minor
+488,2025-02-22,01:00,Vidya Nagar,15.37,75.119,Clear,349,Minor
+489,2025-02-11,03:00,Old Bus Stand,15.3502,75.138,Cloudy,359,Moderate
+490,2025-03-08,19:00,Old Bus Stand,15.3502,75.138,Cloudy,891,Major
+491,2025-02-11,21:00,Gokul Road,15.3652,75.1106,Rain,976,Minor
+492,2025-01-31,23:00,Gokul Road,15.3652,75.1106,Clear,372,Minor
+493,2025-04-17,20:00,Airport Road,15.3705,75.096,Cloudy,808,Moderate
+494,2025-01-07,15:00,Hubballi Railway Station,15.3515,75.1387,Clear,641,Minor
+495,2025-03-14,07:00,Keshwapur,15.3565,75.1325,Clear,808,Moderate
+496,2025-04-21,21:00,Airport Road,15.3705,75.096,Clear,668,Moderate
+497,2025-03-17,21:00,Old Bus Stand,15.3502,75.138,Clear,1291,Minor
+498,2025-04-15,04:00,Unkal Lake Road,15.373,75.1115,Clear,433,Major
+499,2025-03-19,20:00,Keshwapur,15.3565,75.1325,Clear,945,Minor
+500,2025-02-12,08:00,MG Road Junction,15.3647,75.1239,Clear,1117,Moderate
+501,2025-03-11,23:00,MG Road Junction,15.3647,75.1239,Clear,555,Minor
+502,2025-01-27,05:00,Hubballi Railway Station,15.3515,75.1387,Rain,602,Minor
+503,2025-02-03,07:00,Unkal Lake Road,15.373,75.1115,Cloudy,830,Moderate
+504,2025-04-27,12:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,165,Minor
+505,2025-03-25,18:00,Gokul Road,15.3652,75.1106,Cloudy,1106,Minor
+506,2025-02-04,18:00,Airport Road,15.3705,75.096,Cloudy,750,Minor
+507,2025-03-02,02:00,MG Road Junction,15.3647,75.1239,Cloudy,521,Minor
+508,2025-01-17,21:00,Hubballi Railway Station,15.3515,75.1387,Clear,1357,Minor
+509,2025-01-24,08:00,Unkal Lake Road,15.373,75.1115,Clear,751,Minor
+510,2025-04-24,13:00,Vidya Nagar,15.37,75.119,Rain,398,Major
+511,2025-01-06,09:00,Old Bus Stand,15.3502,75.138,Rain,1391,Moderate
+512,2025-03-25,09:00,MG Road Junction,15.3647,75.1239,Clear,1067,Minor
+513,2025-01-12,01:00,Gokul Road,15.3652,75.1106,Clear,444,Moderate
+514,2025-03-24,17:00,Airport Road,15.3705,75.096,Clear,778,Minor
+515,2025-03-17,05:00,Hubballi Railway Station,15.3515,75.1387,Clear,337,Minor
+516,2025-04-10,07:00,Gokul Road,15.3652,75.1106,Clear,928,Minor
+517,2025-04-16,10:00,Old Bus Stand,15.3502,75.138,Clear,964,Minor
+518,2025-02-13,16:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,539,Major
+519,2025-03-11,20:00,MG Road Junction,15.3647,75.1239,Rain,1500,Minor
+520,2025-04-16,09:00,Unkal Lake Road,15.373,75.1115,Clear,725,Moderate
+521,2025-01-04,19:00,Gokul Road,15.3652,75.1106,Clear,668,Minor
+522,2025-01-23,14:00,Keshwapur,15.3565,75.1325,Cloudy,647,Minor
+523,2025-03-06,04:00,Old Bus Stand,15.3502,75.138,Clear,470,Moderate
+524,2025-01-29,17:00,Gokul Road,15.3652,75.1106,Rain,1229,Moderate
+525,2025-03-23,06:00,Old Bus Stand,15.3502,75.138,Clear,445,Minor
+526,2025-03-03,22:00,Gokul Road,15.3652,75.1106,Clear,613,Minor
+527,2025-01-20,00:00,Hubballi Railway Station,15.3515,75.1387,Cloudy,588,Minor
+528,2025-02-26,08:00,Vidya Nagar,15.37,75.119,Clear,661,Major
+529,2025-02-06,18:00,Old Bus Stand,15.3502,75.138,Clear,903,Minor
+530,2025-04-07,06:00,Unkal Lake Road,15.373,75.1115,Clear,496,Minor
+531,2025-04-28,03:00,MG Road Junction,15.3647,75.1239,Fog,374,Moderate
+532,2025-01-18,13:00,Hubballi Railway Station,15.3515,75.1387,Clear,542,Minor
+533,2025-03-04,20:00,Vidya Nagar,15.37,75.119,Rain,954,Minor
+534,2025-03-27,04:00,Vidya Nagar,15.37,75.119,Clear,403,Minor
+535,2025-04-16,10:00,MG Road Junction,15.3647,75.1239,Cloudy,1048,Moderate
+536,2025-04-21,05:00,Vidya Nagar,15.37,75.119,Clear,310,Minor
+537,2025-01-17,01:00,MG Road Junction,15.3647,75.1239,Clear,541,Minor
+538,2025-04-23,20:00,Keshwapur,15.3565,75.1325,Clear,850,Major
+539,2025-03-02,06:00,Gokul Road,15.3652,75.1106,Clear,524,Minor
+540,2025-01-28,23:00,Hubballi Railway Station,15.3515,75.1387,Rain,620,Minor
+541,2025-01-07,19:00,Unkal Lake Road,15.373,75.1115,Fog,805,Minor
+542,2025-01-20,08:00,Airport Road,15.3705,75.096,Rain,925,Moderate
+543,2025-03-16,15:00,Airport Road,15.3705,75.096,Clear,469,Major
+544,2025-01-26,23:00,Unkal Lake Road,15.373,75.1115,Clear,175,Minor
+545,2025-01-31,23:00,Old Bus Stand,15.3502,75.138,Cloudy,486,Minor
+546,2025-01-05,08:00,Old Bus Stand,15.3502,75.138,Clear,768,Minor
+547,2025-03-28,12:00,Unkal Lake Road,15.373,75.1115,Clear,400,Minor
+548,2025-02-16,16:00,Hubballi Railway Station,15.3515,75.1387,Rain,624,Moderate
+549,2025-04-05,23:00,Vidya Nagar,15.37,75.119,Clear,286,Minor
+550,2025-01-30,18:00,MG Road Junction,15.3647,75.1239,Clear,977,Minor
+551,2025-02-02,07:00,Hubballi Railway Station,15.3515,75.1387,Rain,1042,Minor
+552,2025-04-04,15:00,MG Road Junction,15.3647,75.1239,Rain,998,Minor
+553,2025-01-04,06:00,MG Road Junction,15.3647,75.1239,Clear,236,Moderate
+554,2025-04-15,00:00,Gokul Road,15.3652,75.1106,Clear,634,Minor
+555,2025-03-31,12:00,Hubballi Railway Station,15.3515,75.1387,Clear,528,Major
+556,2025-02-12,23:00,Hubballi Railway Station,15.3515,75.1387,Clear,552,Minor
+557,2025-01-04,14:00,Gokul Road,15.3652,75.1106,Clear,449,Major
+558,2025-01-10,15:00,Unkal Lake Road,15.373,75.1115,Cloudy,481,Minor
+559,2025-02-21,10:00,Keshwapur,15.3565,75.1325,Rain,1104,Moderate
+560,2025-04-17,02:00,Unkal Lake Road,15.373,75.1115,Clear,566,Minor
+561,2025-04-18,19:00,Vidya Nagar,15.37,75.119,Rain,1018,Moderate
+562,2025-01-24,10:00,Gokul Road,15.3652,75.1106,Fog,888,Minor
+563,2025-04-14,17:00,MG Road Junction,15.3647,75.1239,Clear,1157,Minor
+564,2025-03-26,21:00,Gokul Road,15.3652,75.1106,Rain,978,Moderate
